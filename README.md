@@ -1,2 +1,3 @@
 # hello-world2
-pratical
+I'm trying to learn how to github
+I love web and mobile app developement
